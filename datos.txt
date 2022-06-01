@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Nombre:Marcos Zalazar
+Nombre:Marcos E. Zalazar
 IP:192.168.0.69
 Hora:19:51
 =======
