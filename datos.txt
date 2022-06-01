@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Nombre:Marcos Zalazar
 IP:192.168.0.69
-Hora:19:43
+Hora:19:51
+=======
+ruben lopez
+
+192.168.0.13
+
+19:42
+>>>>>>> e7e908a97ef3ac9785de06e685e701e3a8227829
